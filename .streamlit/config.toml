@@ -1,0 +1,9 @@
+[server]
+# Reject uploads bigger than 5 MB before they reach our code.
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2e7d32"

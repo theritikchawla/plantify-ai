@@ -1,0 +1,15 @@
+# Web interface
+streamlit
+
+# Official Google Gen AI SDK. The Interactions API used by this project needs
+# version 2.3.0 or newer (per Google's documentation, October 2026).
+google-genai>=2.3.0
+
+# Loads the API key from the .env file
+python-dotenv
+
+# Image checking/resizing (usually installed with Streamlit; listed to be explicit)
+pillow
+
+# Automated tests
+pytest
