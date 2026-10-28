@@ -68,7 +68,7 @@ If PowerShell refuses to activate the environment, use "Command Prompt" instead 
 `.venv\Scripts\activate.bat`.
 
 Usage
-1. Open http://localhost:8501.
+1. Open https://plantify-ai-akskbgsj9jlpmlcsjmv2b9.streamlit.app/
 2. Upload a JPG/PNG/WEBP (max 5 MB) and press "Identify Plant".
 3. Read the Identification and Care guide tabs. Results are saved automatically.
 4. "History" lets you reopen or delete saved results. "Clear / start over" resets the page.
